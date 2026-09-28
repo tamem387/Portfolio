@@ -1,4 +1,6 @@
-title: Tamem
+title: Portfolio
 #logo: docs/assets/
-description: Luau programmer
-theme: jekyell-theme-primer
+description: Tamems Portfolio
+remote_theme: pages-themes/primer@v0.6.0
+plugins:
+- jekyll-remote-theme
