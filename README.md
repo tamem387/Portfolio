@@ -1,7 +1,7 @@
 # Portfolio
 
 ## About Me
-- My name's Tamem, I'm a luau programmer with 3 years of experience. As of now I am currently accepting commissions. My schedule is pretty loose and I am most active on weekends. Time zone: UTC-4
+- My name's Tamem, I'm a luau programmer with 3 years of experience. As of now I am currently accepting commissions. My schedule is pretty loose and I am most active on weekends. I do not take vehicle commissions. Time zone: UTC-4
 
 ## Prior Studios
 - Dreamatorium Dev
